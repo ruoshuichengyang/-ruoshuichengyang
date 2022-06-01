@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeqi Hao</h1>
-<h3 align="center">A Master student from DUT, China</h3>
+<h3 align="center">A Master from DUT, China</h3>
 
 - 🔭 I’m currently interested in **Computer Vision**
 
